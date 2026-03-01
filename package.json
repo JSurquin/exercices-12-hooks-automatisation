@@ -1,0 +1,9 @@
+{
+  "name": "tp-hooks-git",
+  "version": "1.0.0",
+  "description": "Projet de départ pour le TP Git Hooks",
+  "scripts": {
+    "lint": "echo 'Linting... OK'",
+    "test": "echo 'Tests... OK'"
+  }
+}
