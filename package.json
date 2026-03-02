@@ -4,6 +4,10 @@
   "description": "Projet de départ pour le TP Git Hooks",
   "scripts": {
     "lint": "echo 'Linting... OK'",
-    "test": "echo 'Tests... OK'"
+    "test": "echo 'Tests... OK'",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
   }
 }
